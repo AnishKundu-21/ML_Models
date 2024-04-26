@@ -1,2 +1,2 @@
 # ML_Models
-Different Machine learning models with their Implementation
+Different Decision Tree Machine learning models with their Implementation
